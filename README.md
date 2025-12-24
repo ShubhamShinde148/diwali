@@ -2,6 +2,9 @@
 
 A festive and interactive **Diwali Greetings Website** built using **HTML, Tailwind CSS, and JavaScript**.  
 The project features animated fireworks, glowing diyas, background music, and a downloadable Diwali greeting card with Marathi wishes.
+<title>🪔 Diwali Greetings | Shubham Shinde</title>
+https://shubhamshinde148.github.io/diwali/
+
 
 ---
 
